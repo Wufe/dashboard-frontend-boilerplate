@@ -1,0 +1,1 @@
+export const MAKE_ALERT = "@layout/alert/MAKE";
